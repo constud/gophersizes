@@ -1,2 +1,2 @@
-# gophercizes
-Repo for all code from Gophercises projects and exercises  
+# gophersizes
+Repo for all code from Gophersizes projects and exercises  
